@@ -21,7 +21,7 @@ class Loader extends PluginBase implements Listener {
         @mkdir($this->getDataFolder());
         $this->saveResource("config.yml");
         if($this->getConfig()->get("api")===null) {
-          echo TE::RED."please enter api";
+          $this->getLogger()->info("unknown api");
           $this->getServer()->getPluginManager()->disablePlugin($this);
         }
     }
