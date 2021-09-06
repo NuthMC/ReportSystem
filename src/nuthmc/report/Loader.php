@@ -20,6 +20,10 @@ class Loader extends PluginBase implements Listener {
     public function onEnable() {
         @mkdir($this->getDataFolder());
         $this->saveResource("config.yml");
+        if($this->getConfig()->get("api")===null) {
+          echo TE::RED."please enter api";
+          $this->getServer()->getPluginManager()->disablePlugin($this);
+        }
     }
     
     public function onCommand(CommandSender $sender, Command $cmd, string $label, array $args):bool {
