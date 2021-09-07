@@ -1,7 +1,8 @@
 # ReportSystem
   What is report system?
   ReportSystem it can do when you report someone it will send message to your discord.
-  https://github.com/NuthMC/ReportSystem/blob/main/asset/VID_20210907113119.mp4
+
+  <img src="https://github.com/NuthMC/ReportSystem/blob/main/asset/1630814076070.png" width="200" height="300 >
 
   <img src="https://github.com/NuthMC/ReportSystem/blob/main/asset/dc.png" width="200" height="300" >
 
