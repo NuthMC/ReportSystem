@@ -4,6 +4,6 @@ branches:
 - main
 projects:
   ReportSystem:
-    path: "icon.png"
+    path: ""
     
 ---
