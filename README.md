@@ -1,7 +1,9 @@
 # ReportSystem
   This plugin use for report player then it will send message to discord
 
-# how to use
+# how to get webhook link?
+
+# how to use?
 
 
 
