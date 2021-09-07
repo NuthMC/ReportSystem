@@ -1,5 +1,6 @@
 # ReportSystem
-  This plugin use for report player then it will send message to discord
+  What is report system?
+  ReportSystem it can do when you report someone it will send message to your discord.
 
 # how to get webhook link?
  - step 1 go to discord server you want create.
