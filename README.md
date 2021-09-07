@@ -1,6 +1,8 @@
 # ReportSystem
   What is report system?
   ReportSystem it can do when you report someone it will send message to your discord.
+  
+  <img src="https://github.com/NuthMC/ReportSystem/blob/main/asset/dc.png">
 
 # how to get webhook link?
  - step 1 go to discord server you want create.
