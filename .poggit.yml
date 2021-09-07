@@ -5,6 +5,6 @@ branches:
 projects:
   ReportSystem:
     path: ""
-    logo: "icon.png"
+    logo: icon.png
     
 ---
