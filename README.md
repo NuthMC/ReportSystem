@@ -2,5 +2,5 @@
 
  - depends:
    - webhook
-# how to Install
- install plugin to plugins done!
+# permission
+  This plugin dont have permission because it allowed everyone report player
