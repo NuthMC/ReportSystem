@@ -8,7 +8,7 @@
  - setp 4 click Integrations.
  - setp 5 copy webhook link and save done.
  - videe: note this not my video
- - link video how to create webhook:
+ - link video how to create webhook: https://youtu.be/fKksxz2Gdnc
 # how to use?
 
 
