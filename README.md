@@ -11,6 +11,15 @@
  - link video how to create webhook: https://youtu.be/fKksxz2Gdnc
 # how to use?
 
+copy discord webhook link then paste in config at api.
+``` yaml
+
+#enter webhook link
+api: your webhook
+
+#example api: https://discord.com/api/webhooks/884644588441178192/9LJ1Y6GfEMSOlxYY3uvDg1axFYMIN6zF06uprz5iT18sErjnN_6-qS6ChSa5rtERR5KP
+```
+
 
 
 # permission
