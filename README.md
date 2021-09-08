@@ -1,4 +1,7 @@
 # ReportSystem
+  
+  [![](https://poggit.pmmp.io/shield.state/ReportSystem)](https://poggit.pmmp.io/p/ReportSystem)
+  
   What is report system?
   ReportSystem it can do when you report someone it will send message to your discord.
 
