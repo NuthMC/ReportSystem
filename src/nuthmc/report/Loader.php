@@ -3,7 +3,7 @@
 namespace nuthmc\report;
 
 use pocketmine\Server;
-use pocketmine\Player;
+use pocketmine\player\Player;
 
 use pocketmine\plugin\PluginBase;
 
