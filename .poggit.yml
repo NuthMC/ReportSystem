@@ -1,7 +1,7 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/NuthMC/ReportSystem
-build-by-default: false
+build-by-default: true
 branches:
-- main
+- pm4
 projects:
   ReportSystem:
     path: ""
