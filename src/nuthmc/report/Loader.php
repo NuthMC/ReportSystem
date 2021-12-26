@@ -17,7 +17,7 @@ class Loader extends PluginBase implements Listener {
     
     public $players = [];
   
-    public function onEnable() {
+    public function onEnable(): void {
         @mkdir($this->getDataFolder());
         $this->saveResource("config.yml");
         if($this->getConfig()->get("api")===null) {
@@ -29,6 +29,7 @@ class Loader extends PluginBase implements Listener {
     public function onCommand(CommandSender $sender, Command $cmd, string $label, array $args):bool {
         switch($cmd->getName()) {
         case "report": 
+            
             if($sender instanceof Player) {
                 $this->reportForm($sender);
             } else {
