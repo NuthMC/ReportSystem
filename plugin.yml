@@ -7,3 +7,9 @@ author: NuthMC
 commands:
   report:
    description: ""
+   permission: "use.r"
+   
+permissions:
+    use.r:
+        default: true
+  
