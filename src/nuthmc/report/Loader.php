@@ -21,7 +21,7 @@ class Loader extends PluginBase implements Listener {
         @mkdir($this->getDataFolder());
         $this->saveResource("config.yml");
         if($this->getConfig()->get("api")===null) {
-          $this->getLogger()->info("unknown api");
+          $this->getLogger()->info("Unknown API");
           $this->getServer()->getPluginManager()->disablePlugin($this);
         }
     }
@@ -33,7 +33,7 @@ class Loader extends PluginBase implements Listener {
             if($sender instanceof Player) {
                 $this->reportForm($sender);
             } else {
-          $sender->sendMessage("command can extend in-game only");
+          $sender->sendMessage("Command can only be used in-game");
         }
         break;
     }
