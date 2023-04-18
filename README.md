@@ -2,24 +2,24 @@
   
   [![](https://poggit.pmmp.io/shield.state/ReportSystem)](https://poggit.pmmp.io/p/ReportSystem)
   
-  What is report system?
+  What is ReportSystem?
   ReportSystem it can do when you report someone it will send message to your discord.
 
   <img src="https://github.com/NuthMC/ReportSystem/blob/main/asset/1630814076070.png" width="200" height="300" >
 
   <img src="https://github.com/NuthMC/ReportSystem/blob/main/asset/dc.png" width="200" height="300" >
 
-# how to get webhook link?
- - step 1 go to discord server you want create.
- - step 2 click on channel you want create.  note: text channel only.
- - step 3 click setting.
- - setp 4 click Integrations.
- - setp 5 copy webhook link and save done.
- - videe: note this not my video
- - link video how to create webhook: https://youtu.be/fKksxz2Gdnc
-# how to use?
+# How to get webhook link?
+ - Step 1. Go to discord server you want create.
+ - step 2. Click on channel you want create.  note: text channel only.
+ - step 3. Click setting.
+ - setp 4. Click Integrations.
+ - setp 5. Copy webhook link and save done.
+ - Video: (NOTE: This is not my video)
+ - Link Video How to create webhook: https://youtu.be/fKksxz2Gdnc
+# How to use?
 
-copy discord webhook link then paste in config at api.
+Copy your Discord Webhook link then paste it in config at api.
 ``` yaml
 
 #enter webhook link
@@ -30,5 +30,5 @@ api: your webhook
 
 
 
-# permission
+# Permission
   This plugin dont have permission because it allowed everyone report player
